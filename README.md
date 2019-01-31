@@ -1,9 +1,9 @@
-# ZimbraEX
+# ZOMBIE
 Zimbra Browser Extesion for ( Firefox, Chrome &amp; Safari) 
 
 ## Welcome
 
-Welcome to the ZimbraEX Repo. Here you can file issues with your wokr realted task or help needed, find collaborators, or find assigned tasks to tackle. Don't forget to use the Issue Template below to make sure you are including all the relevant information!
+Welcome to the ZOMBIE Repo. Here you can file issues with your wokr realted task or help needed, find collaborators, or find assigned tasks to tackle. Don't forget to use the Issue Template below to make sure you are including all the relevant information!
 
 Anyone can take (or make) a issue, as long as it is related to the subject.
 
@@ -42,5 +42,5 @@ Note: Because of the way permissions work on this repo, if you can't add a label
 
 You can contribute in a number of ways.
 
- * Suggest ideas for projects doable in ZimbraEX (specifically for people who wish to work on something).
- * Raise issues on how you think "ZimbraEX" can help evangelize l10n.
+ * Suggest ideas for projects doable in ZOMBIE (specifically for people who wish to work on something).
+ * Raise issues on how you think "ZOMBIE" can help evangelize l10n.

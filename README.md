@@ -43,4 +43,4 @@ Note: Because of the way permissions work on this repo, if you can't add a label
 You can contribute in a number of ways.
 
  * Suggest ideas for projects doable in ZOMBIE (specifically for people who wish to work on something).
- * Raise issues on how you think "ZOMBIE" can help evangelize l10n.
+ * Raise issues on how you think "ZOMBIE" can help evangelize the product.

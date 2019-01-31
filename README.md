@@ -1,4 +1,4 @@
-# ZOMBIE
+# ZOMBIE (Zimbra On My Browser Is Excellent) 
 Zimbra Browser Extesion for ( Firefox, Chrome &amp; Safari) 
 
 ## Welcome

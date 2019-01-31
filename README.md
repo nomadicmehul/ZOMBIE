@@ -10,7 +10,7 @@ Anyone can take (or make) a issue, as long as it is related to the subject.
 
  ## Issue Template:
 
-[Click here](https://github.com/mozguj/L10n-gu-IN/issues/new?template=help.md) to create issue with default template
+[Click here](https://github.com/rowdymehul/ZimbraEX/issues/new?template=help.md) to create issue with default template
 
 ```
 ## Goal: 
@@ -42,5 +42,5 @@ Note: Because of the way permissions work on this repo, if you can't add a label
 
 You can contribute in a number of ways.
 
- * Suggest ideas for projects doable in l10ngu (specifically for people who wish to work on something).
- * Raise issues on how you think "L10n-gu-IN" can help evangelize l10n.
+ * Suggest ideas for projects doable in ZimbraEX (specifically for people who wish to work on something).
+ * Raise issues on how you think "ZimbraEX" can help evangelize l10n.

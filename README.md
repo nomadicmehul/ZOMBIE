@@ -1,5 +1,5 @@
 # ZOMBIE (Zimbra On My Browser Is Excellent) 
-Zimbra Browser Extesion for ( Firefox, Chrome &amp; Safari) 
+Zimbra Browser Extension for ( Firefox, Chrome &amp; Safari) 
 
 ## Welcome
 
